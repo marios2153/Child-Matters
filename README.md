@@ -1,5 +1,5 @@
 # Child-Matters
-A website for a physiotherapy centre in Greece 
+A HTML website for a physiotherapy centre in Greece 
 # Content
 1.Info about centre and the facilities 🏢
 2.Info and bio about the staff members 🧑‍💻
